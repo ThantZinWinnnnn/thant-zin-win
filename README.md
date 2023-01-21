@@ -4,7 +4,7 @@
 - 📫 How to reach me: [discord](https://discord.com/channels/@me)
 - ⚡ Fun fact: I love to learn coding😄
 <!--
-**lyn-eva/lyn-eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on side projects.
